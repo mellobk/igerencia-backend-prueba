@@ -1,3 +1,19 @@
+## repositorio igerencia
+1)clone el repositorio
+2)use la terminal de comnados para entrar en el repositorio
+3)use el comand php artisan serve para levantar el servidor de laravel
+
+## end points
+ /getItems // 
+ /getItemsById/id //obtiene el item buscado por id
+ /getItemsByYear/{year} //obtiene el item buscado por año
+ /createItem //crea la palanca u objetivo dependiendo de la variable que se halla enviado
+ /getSuggestionModels //obtiene las sugerencias de los items buscados
+ /updateItem/{id} //actualiza el item por id
+ /destroyItem/{id} // elimina el item buscado por id
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
